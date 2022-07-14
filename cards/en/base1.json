@@ -4693,6 +4693,7 @@
     "id": "base1-97",
     "name": "Fighting Energy",
     "supertype": "Energy",
+    "type": "Fighting",
     "subtypes": [
       "Basic"
     ],
@@ -4713,6 +4714,7 @@
     "id": "base1-98",
     "name": "Fire Energy",
     "supertype": "Energy",
+    "type": "Fire",
     "subtypes": [
       "Basic"
     ],
@@ -4733,6 +4735,7 @@
     "id": "base1-99",
     "name": "Grass Energy",
     "supertype": "Energy",
+    "type": "Grass",
     "subtypes": [
       "Basic"
     ],
@@ -4753,6 +4756,7 @@
     "id": "base1-100",
     "name": "Lightning Energy",
     "supertype": "Energy",
+    "type": "Lightning",
     "subtypes": [
       "Basic"
     ],
@@ -4773,6 +4777,7 @@
     "id": "base1-101",
     "name": "Psychic Energy",
     "supertype": "Energy",
+    "type": "Psychic",
     "subtypes": [
       "Basic"
     ],
@@ -4793,6 +4798,7 @@
     "id": "base1-102",
     "name": "Water Energy",
     "supertype": "Energy",
+    "type": "Water",
     "subtypes": [
       "Basic"
     ],
