@@ -551,7 +551,7 @@
   },
   {
     "id": "cel25c-9_A",
-    "name": "Team Magma’s Groudon",
+    "name": "Team Magma's Groudon",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic"
@@ -565,7 +565,7 @@
       {
         "type": "Poké-Body",
         "name": "Power Saver",
-        "text": "As long as the number of Pokémon in play (both yours and your opponent’s) that has Team Magma in its name is 3 or less, Team Magma’s Groudon can’t attack."
+        "text": "As long as the number of Pokémon in play (both yours and your opponent’s) that has Team Magma in its name is 3 or less, Team Magma's Groudon can’t attack."
       }
     ],
     "attacks": [
