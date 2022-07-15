@@ -206,7 +206,7 @@
   },
   {
     "id": "cel25c-15_A3",
-    "name": "Rocket’s Zapdos",
+    "name": "Rocket's Zapdos",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic"
@@ -222,7 +222,7 @@
         ],
         "name": "Plasma",
         "damage": "20",
-        "text": "If there are any Lightning Energy cards in your discard pile, attach 1 of them to Rocket’s Zapdos.",
+        "text": "If there are any Lightning Energy cards in your discard pile, attach 1 of them to Rocket's Zapdos.",
         "convertedEnergyCost": 1
       },
       {
