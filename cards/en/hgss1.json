@@ -5947,6 +5947,8 @@
     "id": "hgss1-111",
     "name": "Ho-Oh LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss1-111-legend",
+    "legendPosition": 1,
     "subtypes": [
       "LEGEND"
     ],
@@ -6015,6 +6017,8 @@
     "id": "hgss1-112",
     "name": "Ho-Oh LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss1-111-legend",
+    "legendPosition": 2,
     "subtypes": [
       "LEGEND"
     ],
@@ -6083,6 +6087,8 @@
     "id": "hgss1-113",
     "name": "Lugia LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss1-113-legend",
+    "legendPosition": 1,
     "subtypes": [
       "LEGEND"
     ],
@@ -6148,6 +6154,8 @@
   {
     "id": "hgss1-114",
     "name": "Lugia LEGEND",
+    "legend": "hgss1-113-legend",
+    "legendPosition": 2,
     "supertype": "Pokémon",
     "subtypes": [
       "LEGEND"

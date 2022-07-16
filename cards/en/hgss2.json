@@ -4893,6 +4893,8 @@
     "id": "hgss2-90",
     "name": "Entei & Raikou LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss2-90-legend",
+    "legendPosition": 1,
     "subtypes": [
       "LEGEND"
     ],
@@ -4951,6 +4953,8 @@
     "id": "hgss2-91",
     "name": "Entei & Raikou LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss2-90-legend",
+    "legendPosition": 2,
     "subtypes": [
       "LEGEND"
     ],
@@ -5013,6 +5017,8 @@
     "id": "hgss2-92",
     "name": "Raikou & Suicune LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss2-92-legend",
+    "legendPosition": 1,
     "subtypes": [
       "LEGEND"
     ],
@@ -5081,6 +5087,8 @@
     "id": "hgss2-93",
     "name": "Raikou & Suicune LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss2-92-legend",
+    "legendPosition": 2,
     "subtypes": [
       "LEGEND"
     ],
@@ -5149,6 +5157,8 @@
     "id": "hgss2-94",
     "name": "Suicune & Entei LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss2-94-legend",
+    "legendPosition": 1,
     "subtypes": [
       "LEGEND"
     ],
@@ -5218,6 +5228,8 @@
     "id": "hgss2-95",
     "name": "Suicune & Entei LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss2-94-legend",
+    "legendPosition": 2,
     "subtypes": [
       "LEGEND"
     ],

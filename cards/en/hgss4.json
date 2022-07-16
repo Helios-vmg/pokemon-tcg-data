@@ -5724,6 +5724,8 @@
     "id": "hgss4-99",
     "name": "Darkrai & Cresselia LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss4-99-legend",
+    "legendPosition": 1,
     "subtypes": [
       "LEGEND"
     ],
@@ -5792,6 +5794,8 @@
     "id": "hgss4-100",
     "name": "Darkrai & Cresselia LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss4-99-legend",
+    "legendPosition": 2,
     "subtypes": [
       "LEGEND"
     ],
@@ -5860,6 +5864,8 @@
     "id": "hgss4-101",
     "name": "Palkia & Dialga LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss4-101-legend",
+    "legendPosition": 1,
     "subtypes": [
       "LEGEND"
     ],
@@ -5930,6 +5936,8 @@
     "id": "hgss4-102",
     "name": "Palkia & Dialga LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss4-101-legend",
+    "legendPosition": 2,
     "subtypes": [
       "LEGEND"
     ],

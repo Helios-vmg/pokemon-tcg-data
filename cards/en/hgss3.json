@@ -4858,6 +4858,8 @@
     "id": "hgss3-87",
     "name": "Kyogre & Groudon LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss3-87-legend",
+    "legendPosition": 1,
     "subtypes": [
       "LEGEND"
     ],
@@ -4930,6 +4932,8 @@
     "id": "hgss3-88",
     "name": "Kyogre & Groudon LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss3-87-legend",
+    "legendPosition": 2,
     "subtypes": [
       "LEGEND"
     ],
@@ -5002,6 +5006,8 @@
     "id": "hgss3-89",
     "name": "Rayquaza & Deoxys LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss3-89-legend",
+    "legendPosition": 1,
     "subtypes": [
       "LEGEND"
     ],
@@ -5069,6 +5075,8 @@
     "id": "hgss3-90",
     "name": "Rayquaza & Deoxys LEGEND",
     "supertype": "Pokémon",
+    "legend": "hgss3-89-legend",
+    "legendPosition": 2,
     "subtypes": [
       "LEGEND"
     ],
