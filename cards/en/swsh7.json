@@ -12934,6 +12934,9 @@
     "id": "swsh7-235",
     "name": "Lightning Energy",
     "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
     "number": "235",
     "artist": "n/a",
     "rarity": "Rare Secret",
@@ -12951,6 +12954,9 @@
     "id": "swsh7-236",
     "name": "Darkness Energy",
     "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
     "number": "236",
     "artist": "n/a",
     "rarity": "Rare Secret",
@@ -12968,6 +12974,9 @@
     "id": "swsh7-237",
     "name": "Metal Energy",
     "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
     "number": "237",
     "artist": "n/a",
     "rarity": "Rare Secret",
