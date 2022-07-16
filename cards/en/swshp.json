@@ -8428,6 +8428,7 @@
     "subtypes": [
       "Level-Up"
     ],
+    "evolvesFrom": "Zacian",
     "level": "X",
     "hp": "160",
     "types": [
@@ -8687,6 +8688,8 @@
     "id": "swshp-SWSH139",
     "name": "Pikachu V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH139-vunion",
+    "vunionPosition": 1,
     "subtypes": [
       "V-UNION"
     ],
@@ -8776,6 +8779,8 @@
     "id": "swshp-SWSH140",
     "name": "Pikachu V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH139-vunion",
+    "vunionPosition": 2,
     "subtypes": [
       "V-UNION"
     ],
@@ -8865,6 +8870,8 @@
     "id": "swshp-SWSH141",
     "name": "Pikachu V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH139-vunion",
+    "vunionPosition": 3,
     "subtypes": [
       "V-UNION"
     ],
@@ -8954,6 +8961,8 @@
     "id": "swshp-SWSH142",
     "name": "Pikachu V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH139-vunion",
+    "vunionPosition": 4,
     "subtypes": [
       "V-UNION"
     ],
@@ -9610,6 +9619,8 @@
     "id": "swshp-SWSH155",
     "name": "Greninja V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH155-vunion",
+    "vunionPosition": 1,
     "subtypes": [
       "V-UNION"
     ],
@@ -9712,6 +9723,8 @@
     "id": "swshp-SWSH156",
     "name": "Greninja V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH155-vunion",
+    "vunionPosition": 2,
     "subtypes": [
       "V-UNION"
     ],
@@ -9814,6 +9827,8 @@
     "id": "swshp-SWSH157",
     "name": "Greninja V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH155-vunion",
+    "vunionPosition": 3,
     "subtypes": [
       "V-UNION"
     ],
@@ -9916,6 +9931,8 @@
     "id": "swshp-SWSH158",
     "name": "Greninja V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH155-vunion",
+    "vunionPosition": 4,
     "subtypes": [
       "V-UNION"
     ],
@@ -10018,6 +10035,8 @@
     "id": "swshp-SWSH159",
     "name": "Mewtwo V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH159-vunion",
+    "vunionPosition": 1,
     "subtypes": [
       "V-UNION"
     ],
@@ -10119,6 +10138,8 @@
     "id": "swshp-SWSH160",
     "name": "Mewtwo V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH159-vunion",
+    "vunionPosition": 2,
     "subtypes": [
       "V-UNION"
     ],
@@ -10220,6 +10241,8 @@
     "id": "swshp-SWSH161",
     "name": "Mewtwo V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH159-vunion",
+    "vunionPosition": 3,
     "subtypes": [
       "V-UNION"
     ],
@@ -10321,6 +10344,8 @@
     "id": "swshp-SWSH162",
     "name": "Mewtwo V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH159-vunion",
+    "vunionPosition": 4,
     "subtypes": [
       "V-UNION"
     ],
@@ -10422,6 +10447,8 @@
     "id": "swshp-SWSH163",
     "name": "Zacian V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH163-vunion",
+    "vunionPosition": 1,
     "subtypes": [
       "V-UNION"
     ],
@@ -10516,6 +10543,8 @@
     "id": "swshp-SWSH164",
     "name": "Zacian V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH163-vunion",
+    "vunionPosition": 2,
     "subtypes": [
       "V-UNION"
     ],
@@ -10610,6 +10639,8 @@
     "id": "swshp-SWSH165",
     "name": "Zacian V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH163-vunion",
+    "vunionPosition": 3,
     "subtypes": [
       "V-UNION"
     ],
@@ -10704,6 +10735,8 @@
     "id": "swshp-SWSH166",
     "name": "Zacian V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH163-vunion",
+    "vunionPosition": 4,
     "subtypes": [
       "V-UNION"
     ],
@@ -13744,6 +13777,8 @@
     "id": "swshp-SWSH215",
     "name": "Morpeko V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH215-vunion",
+    "vunionPosition": 1,
     "subtypes": [
       "V-UNION"
     ],
@@ -13830,6 +13865,8 @@
     "id": "swshp-SWSH216",
     "name": "Morpeko V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH215-vunion",
+    "vunionPosition": 2,
     "subtypes": [
       "V-UNION"
     ],
@@ -13916,6 +13953,8 @@
     "id": "swshp-SWSH217",
     "name": "Morpeko V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH215-vunion",
+    "vunionPosition": 3,
     "subtypes": [
       "V-UNION"
     ],
@@ -14002,6 +14041,8 @@
     "id": "swshp-SWSH218",
     "name": "Morpeko V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH215-vunion",
+    "vunionPosition": 4,
     "subtypes": [
       "V-UNION"
     ],
