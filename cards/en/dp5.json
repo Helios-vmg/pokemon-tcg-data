@@ -1547,7 +1547,7 @@
         "text": ""
       },
       {
-        "name": "(+) Spark",
+        "name": "⊕ Spark",
         "cost": [
           "Lightning",
           "Colorless"
@@ -1726,7 +1726,7 @@
         "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
       },
       {
-        "name": "– Boost",
+        "name": "⊖ Boost",
         "cost": [
           "Lightning",
           "Colorless"

@@ -1972,7 +1972,7 @@
     ],
     "attacks": [
       {
-        "name": "Tag Play —",
+        "name": "Tag Play ⊖",
         "cost": [
           "Lightning"
         ],
@@ -2219,7 +2219,7 @@
     ],
     "attacks": [
       {
-        "name": "Tag Play +",
+        "name": "Tag Play ⊕",
         "cost": [
           "Lightning"
         ],
