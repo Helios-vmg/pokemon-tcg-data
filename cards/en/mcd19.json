@@ -216,7 +216,7 @@
           "Water"
         ],
         "name": "Hydro Pump",
-        "text": "This attack does 10 more damage times the amount of [W] Energy attached to this Pokémon.",
+        "text": "This attack does 10 more damage times the amount of Water Energy attached to this Pokémon.",
         "damage": "70+",
         "convertedEnergyCost": 4
       }
@@ -490,7 +490,7 @@
           "Metal"
         ],
         "name": "Gold Rush",
-        "text": "Discard any number of [M] Energy cards from your hand. This attack does 30 damage for each card you discarded in this way.",
+        "text": "Discard any number of Metal Energy cards from your hand. This attack does 30 damage for each card you discarded in this way.",
         "damage": "30",
         "convertedEnergyCost": 1
       }

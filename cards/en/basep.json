@@ -974,7 +974,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "10",
-        "text": "Flip a coin. if heads, the Defending Pokémon is now Poisoned."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
