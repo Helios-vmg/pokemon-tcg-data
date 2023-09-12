@@ -4372,6 +4372,7 @@
     "rarity": "Uncommon",
     "legalities": {
       "unlimited": "Legal",
+      "standard": "Legal",
       "expanded": "Legal"
     },
     "images": {
@@ -4939,7 +4940,8 @@
     "artist": "Shinji Higuchi + Sachiko Eba",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      243
+      243,
+      244
     ],
     "legalities": {
       "unlimited": "Legal"
@@ -5003,7 +5005,8 @@
     "artist": "Shinji Higuchi + Sachiko Eba",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      243
+      243,
+      244
     ],
     "legalities": {
       "unlimited": "Legal"
@@ -5073,7 +5076,8 @@
     "artist": "Shinji Higuchi + Noriko Takaya",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      243
+      243,
+      245
     ],
     "legalities": {
       "unlimited": "Legal"
@@ -5143,7 +5147,8 @@
     "artist": "Shinji Higuchi + Noriko Takaya",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      243
+      243,
+      245
     ],
     "legalities": {
       "unlimited": "Legal"
@@ -5169,7 +5174,6 @@
     ],
     "rules": [
       "Put this card from your hand onto your Bench only with the other half of Suicune & Entei LEGEND.",
-      "Put this card from your hand onto your Bench only with the other half of Suicune & Entei LEGEND. When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards",
       "When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
@@ -5214,7 +5218,8 @@
     "artist": "Shinji Higuchi + Sachiko Eba",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      244
+      244,
+      245
     ],
     "legalities": {
       "unlimited": "Legal"
@@ -5240,7 +5245,6 @@
     ],
     "rules": [
       "Put this card from your hand onto your Bench only with the other half of Suicune & Entei LEGEND.",
-      "Put this card from your hand onto your Bench only with the other half of Suicune & Entei LEGEND. When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards",
       "When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
@@ -5285,7 +5289,8 @@
     "artist": "Shinji Higuchi + Sachiko Eba",
     "rarity": "LEGEND",
     "nationalPokedexNumbers": [
-      244
+      244,
+      245
     ],
     "legalities": {
       "unlimited": "Legal"
