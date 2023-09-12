@@ -18201,6 +18201,8 @@
     "id": "swshp-SWSH287",
     "name": "Morpeko V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH287-vunion",
+    "vunionPosition": 1,
     "subtypes": [
       "V-UNION"
     ],
@@ -18287,6 +18289,8 @@
     "id": "swshp-SWSH288",
     "name": "Morpeko V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH287-vunion",
+    "vunionPosition": 2,
     "subtypes": [
       "V-UNION"
     ],
@@ -18373,6 +18377,8 @@
     "id": "swshp-SWSH289",
     "name": "Morpeko V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH287-vunion",
+    "vunionPosition": 3,
     "subtypes": [
       "V-UNION"
     ],
@@ -18459,6 +18465,8 @@
     "id": "swshp-SWSH290",
     "name": "Morpeko V-UNION",
     "supertype": "Pokémon",
+    "vunion": "swshp-SWSH287-vunion",
+    "vunionPosition": 4,
     "subtypes": [
       "V-UNION"
     ],
